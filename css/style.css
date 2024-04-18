@@ -2,7 +2,7 @@
     font-size: 50px;
     background-color:#b3ffb3;
     border: solid 4px;
-    color: #2db300;
+    color: #1b6503;
     font-style: italic;
     padding: 10px;
     border-radius: 30px;
@@ -13,7 +13,7 @@
     font-size: 50px;
     background-color:#b3d1ff;
     border: double 4px;
-    color:#0066ff;
+    color:#043b8e;
     padding: 10px;
     border-radius:0px 40px 0px 40px;
     margin: 50PX;
@@ -21,7 +21,7 @@
 
 .login-btn{
     font-size: 50px;
-    background-color: #ff99cc;
+    background-color: #f7b0d3;
     border: dotted 4px;
     color: #e60073;
     padding: 10px;
@@ -31,10 +31,20 @@
 
 .clk-btn{
     font-size: 50px;
-    background-color:#b3ffff;
+    background-color:#c0f3f3;
     border: dashed 3px;
-    color:#00cccc;
+    color:#057c7c;
     padding: 10px;
     border-radius:80px ;
+    margin: 50PX;
+}
+
+.sub-btn{
+    font-size: 50px;
+    background-color:#e6ccff;
+    border: solid 3px;
+    color:#7300e6;
+    padding: 10px;
+    border-radius:50px 0px 50px 0px ;
     margin: 50PX;
 }
