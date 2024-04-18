@@ -19,3 +19,22 @@
     margin: 50PX;
 }
 
+.login-btn{
+    font-size: 50px;
+    background-color: #ff99cc;
+    border: dotted 4px;
+    color: #e60073;
+    padding: 10px;
+    border-radius:40px 0px 40px 0px;
+    margin: 50PX;
+}
+
+.clk-btn{
+    font-size: 50px;
+    background-color:#b3ffff;
+    border: dashed 3px;
+    color:#00cccc;
+    padding: 10px;
+    border-radius:80px ;
+    margin: 50PX;
+}
